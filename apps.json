@@ -4,7 +4,7 @@
     "launcherType": "assembly",
     "repositories": [
       "central",
-      "https://lavrov:8e949ccf166495f910b15f80c333af42c9abb1c7@maven.pkg.github.com/lavrov/src"
+      "https://maven.pkg.github.com/lavrov/src"
     ],
     "dependencies": [
       "com.github.lavrov::cli:latest.stable"
