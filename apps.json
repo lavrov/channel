@@ -1,13 +1,13 @@
 {
   "src": {
-    "scalaVersion": "2.13.3",
+    "scalaVersion": "2.13.7",
     "launcherType": "assembly",
     "repositories": [
       "central",
       "https://maven.pkg.github.com/lavrov/src"
     ],
     "dependencies": [
-      "com.github.lavrov::cli:latest.stable"
+      "com.github.lavrov.src::cli:latest.stable"
     ]
   }
 }
