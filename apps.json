@@ -10,7 +10,8 @@
     ],
     "launcherType": "scala-native",
     "prebuiltBinaries": {
-      "x86_64-pc-linux": "gz+https://github.com/lavrov/src/releases/download/v${version}/src-x86_64-pc-linux.gz"
+      "x86_64-pc-linux": "gz+https://github.com/lavrov/src/releases/download/v${version}/src-x86_64-pc-linux.gz",
+      "aarch64-apple-darwin": "gz+https://github.com/lavrov/src/releases/download/v${version}/src-aarch64-apple-darwin.gz"
     }
   }
 }
